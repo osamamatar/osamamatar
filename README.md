@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm osama mohamed</h1>
 <h3 align="center">A passionate full stack developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Axcelios**
+- 🔭 I’m currently working on **Fawry Digital**
 
 - 👨‍💻 All of my projects are available at [https://osama-mohamed.netlify.app](https://osama-mohamed.netlify.app)
 
